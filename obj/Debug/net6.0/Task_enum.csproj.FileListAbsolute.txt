@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Task_enum\Task_enum\bin\Debug\net6.0\Task_enum.exe
+C:\Users\user\source\repos\Task_enum\Task_enum\bin\Debug\net6.0\Task_enum.deps.json
+C:\Users\user\source\repos\Task_enum\Task_enum\bin\Debug\net6.0\Task_enum.runtimeconfig.json
+C:\Users\user\source\repos\Task_enum\Task_enum\bin\Debug\net6.0\Task_enum.dll
+C:\Users\user\source\repos\Task_enum\Task_enum\bin\Debug\net6.0\Task_enum.pdb
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.AssemblyInfo.cs
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.dll
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\refint\Task_enum.dll
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.pdb
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\Task_enum.genruntimeconfig.cache
+C:\Users\user\source\repos\Task_enum\Task_enum\obj\Debug\net6.0\ref\Task_enum.dll
